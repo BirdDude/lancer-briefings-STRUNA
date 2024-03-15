@@ -94,63 +94,60 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "002",
+          "name": "Daybreak",
+          "status": "start"
+        },
+        {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "The_Drop",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "BASIL",
+          "alias": "Anthony Crowely",
+          "code": "244dd2fe-c194-4ee3-800f-740a861ec18d//NDL-C-DELTA-JUDGE",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "frame": "Chomolunga",
+          "mech": "Raven"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Gorilla",
+          "alias": "Beep Beep Boop Beep Bo-",
+          "code": "f851330d-cca9-4700-9812-e1849b7e8a28//NDL-C-CHAIN-DREAM",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "frame": "Sagarmatha",
+          "mech": "Silverback"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Moth",
+          "alias": "Oro Azloft",
+          "code": "25c0c232-988c-4c2a-adaf-c9de79fb17c9//NDL-C-EPSILON-CROSS",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Interchangeable Parts"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Nemo",
+          "alias": "Blake Arthur",
+          "code": "25c0c232-988c-4c2a-adaf-c9de79fb17c9//NDL-C-EPSILON-CROSS",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Nautilus"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "Cressidium",
+        "year": "5016u",
+        "system": "Cressidium Prime",
+        "gate": "Cascade-Rainer",
+        "ring": "Cascade-Line",
+        "headerTitle": "Union",
+        "headerSubtitle": "Naval Department",
+        "subheaderTitle": "Operation Solstice Rain",
+        "subheaderSubtitle": "LANCER Squad Struna",
       },
       "options":{
         "eventsMarkdownPerMission": true
