@@ -36,7 +36,7 @@
           <img src="/icons/pilot-icon.svg" />
           <h1>Pilot Roster</h1>
         </div>
-        <div class="rhombus-back">&nbsp;</div>
+        <div class="rhombus-back">&nbsp;</div>  
       </div>
       <div class="section-content-container">
         <div class="pilot-list-container">
@@ -132,7 +132,7 @@ export default {
         {
           "callsign": "Nemo",
           "alias": "Blake Arthur",
-          "code": "25c0c232-988c-4c2a-adaf-c9de79fb17c9//NDL-C-EPSILON-CROSS",
+          "code": "34e9b262-b7c6-46fd-895f-b4e60940300f//NDL-C-SOLAR-ROYAL",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Nautilus"
