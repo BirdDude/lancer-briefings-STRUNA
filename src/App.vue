@@ -103,6 +103,11 @@ export default {
           "name": "The_Drop",
           "status": "partial-success"
         },
+        {
+          "slug": "000",
+          "name": "UNION TRAINING",
+          "status": "success"
+        },
       ],
       "pilots": [
         {
