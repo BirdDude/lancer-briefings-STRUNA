@@ -1,0 +1,9 @@
+## DOSSIER NOT FOUND
+
+Moth grew up in a single dad household. Her dad was caring but needed to work to support them as her mom passed when she was very young. Moth ended up being left in the care of their retired elderly neighbor (Kurt) during the days. Kurt was a retired tech and spent his days conducting small repairs and working on small personal projects in his workshop. Kurt didn't mind having one eye on her as he worked away on his projects. She had small strong hands so he had her help with his projects every so often once she proved to be interested.
+
+As she got older Moth became an apprentice to him and eventually signed up to join Union at Kurt's insistence when he could no longer teach her. Moth entered Union as a emergency ship tech and made her way up the ranks through a combination of good instincts and the invaluable ability to stay calm in any high stakes situation from reassuring a devastated mech pilot to handling repairs of the reactor core of a large ship as the core becomes unstable.
+
+Moth worked a lot in the dark as she found it easier to spot issues with smaller cores in the inner-ship maintenance pathways which gave her the nickname/codename moth as her fellow mechs would see the white shine of her hair reflecting in the light of the cores as she "fluttered" from one light to the next. As she ranked up and gained more sway she found she had a natural talent for mech repairs and modification. This is the subject in which she began to become an expert.
+
+When her talent grew to be significant to the higher ups on the ship she was recommended to become a pilot. She was initially conflicted but wanted to be able to cease dealing with consistently unsatisfied mech pilot snobs. So Moth took up the training to become a pilot and was relieved to be finally answering to herself (even if she still had to deal with the pilot snobs as her "superiors"). 

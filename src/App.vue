@@ -101,7 +101,7 @@ export default {
         {
           "slug": "001",
           "name": "The_Drop",
-          "status": "success"
+          "status": "partial-success"
         },
       ],
       "pilots": [
@@ -140,7 +140,7 @@ export default {
       ],
       "header": {
         "planet": "Cressidium",
-        "year": "5016u",
+        "year": "5014u",
         "system": "Cressidium Prime",
         "gate": "Cascade-Rainer",
         "ring": "Cascade-Line",
@@ -187,7 +187,8 @@ export default {
       let md = "";
 
       if(self.options.eventsMarkdownPerMission){
-        md = `/events/${self.mission_slug}.md`
+        //let filename = require("../public/events/${self.mission_slug}.md");
+        md = `../public/events/${self.mission_slug}.md`
       }
       else {
         md = "/events.md"
