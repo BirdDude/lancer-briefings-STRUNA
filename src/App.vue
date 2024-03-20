@@ -188,7 +188,7 @@ export default {
 
       if(self.options.eventsMarkdownPerMission){
         //let filename = require("../public/events/${self.mission_slug}.md");
-        md = `../public/events/${self.mission_slug}.md`
+        md = `/events/${self.mission_slug}.md`
       }
       else {
         md = "/events.md"
